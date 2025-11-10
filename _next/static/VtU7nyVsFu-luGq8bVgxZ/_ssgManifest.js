@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fquals","\u002Fteaching","\u002F","\u002Fquals\u002F[topic]","\u002Fquals\u002F[topic]\u002F[problemCode]","\u002Fteaching\u002F[classCode]","\u002Fteaching\u002F[classCode]\u002F[noteName]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
